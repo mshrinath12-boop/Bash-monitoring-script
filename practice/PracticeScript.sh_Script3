@@ -1,0 +1,19 @@
+,#!/bin/bash
+
+echo "Provide an option"
+echo "a for showing the sequence of scripts number starting with 0 like 01"
+echo "b for list  of scripts ending with .sh extinction"
+
+read  choice
+
+case $choice in
+            a) echo "Scripts starting with 0:"
+               ls 0*
+               echo "Ending ..."
+               ;;
+            b)echo "Scripts ending with .sh:"
+              ls *.sh
+              echo "Ending ..."
+esac
+            
+

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "menu"
+echo "1 for showing dates of the scripts"
+echo "2 for showing all  Scripts"
+echo "3 for showing scripts in ascending order of dates"
+echo "4 for showing Scripts in descending order of scripts"
+
+read -p "Enter an option: "
+
+case $choice in
+      1) echo "date  of the scripts"
+         date
+         ;;
+      2) echo "Scripts"
+         ls
+         ;;
+      3) echo "Scripts in ascending order of dates"
+         ls -ltr
+         ;;
+esac
+
+

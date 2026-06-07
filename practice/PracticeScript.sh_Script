@@ -1,0 +1,20 @@
+#!/bin/bash
+
+Num1= 2
+Num2= 1
+
+#Calculator to Calculate values
+
+Addition() {
+   Sum=$(($Num1+$Num2))
+   echo "Addition is $Sum"
+}
+
+Substraction() {
+       subs=$(($Num1-$Num2))
+       echo xy"Substraction is $subs"
+}
+
+Addition 
+Substraction 
+

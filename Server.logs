@@ -1,0 +1,7 @@
+#!/bin/bash
+
+Info- Server started
+Info- user tried to login
+Error- Login failed due to wrong login credentials
+
+

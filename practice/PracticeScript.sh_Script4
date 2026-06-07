@@ -1,0 +1,17 @@
+#!/bin/bash
+
+user="Shrinath"
+pass="141200256202522102005"
+
+read -p "Enter your username: " username
+read -p "Enter your password: " password
+
+if [[ $username ==  $user ]]  && [[ $password == $pass ]]
+then
+    echo "Your login is Successful"
+else
+    echo "Failed enter right credentials"
+fi
+
+
+

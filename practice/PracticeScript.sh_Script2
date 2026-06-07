@@ -1,0 +1,13 @@
+#!/bin/bash
+
+declare -A server 
+
+server[name]="local server"
+server[ip]="http://192.168.29.81:5050"
+server[user]="local host"
+
+echo "${server[name]}"
+echo "${server[ip]}"
+echo "${server[user]}"
+
+

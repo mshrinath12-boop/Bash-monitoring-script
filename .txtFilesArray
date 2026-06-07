@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#Array 
+
+myArray=( Important commands backup.txt👀 LPG.txt Stove.txt script.txt)
+
+echo  "All the values in Array are ${myArray[*]}"
+
+echo "Value in the first index of the Array is  ${myArray[1]}"
