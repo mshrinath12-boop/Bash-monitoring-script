@@ -5,12 +5,12 @@ server
 ### DiskScanner.sh
 scan disk usage percentage 
 shows top folder by size
-### FolderChecker. sh
+### FolderChecker.sh
 Check Disk usage
 Alert when usage is high 
-### Monitor. sh
+### Monitor.sh
 Real time System Monitoring 
-### ram_status. sh
+### ram_status.sh
 Monitor Ram usage and Availability 
 ## How to run
 '' Bash
