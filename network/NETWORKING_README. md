@@ -1,17 +1,20 @@
 # Network Scripts
+
 Scripts to monitor and check network connectivity.
+
 ## Scripts
+
 ### 30_connectivity-check.sh
-Checks network connectivity 
+Checks network connectivity
 Tests connection to remote hosts
- Reports connection status
+Reports connection status
+
 ## How to Run
-```bash
+
 chmod +x script_name.sh
 ./script_name.sh
-'''
+
 ## Built with
-Built with Bash scripting
-Linux networking commands
 
-
+- Bash scripting
+- Linux networking commands
