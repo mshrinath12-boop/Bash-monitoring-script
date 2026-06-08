@@ -20,6 +20,7 @@ chmod +x script_name.sh
 Built with
 
 Bash Scripting 
+
 Linux System commands 
 Python (Email Alert)
 
