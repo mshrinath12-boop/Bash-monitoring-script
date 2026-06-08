@@ -1,6 +1,6 @@
 # Monitoring Scripts
-Scripts to monitor system health on linux 
-server
+Scripts to monitor system health on linux server
+
 ##Scripts
 ### DiskScanner.sh
 scan disk usage percentage 
