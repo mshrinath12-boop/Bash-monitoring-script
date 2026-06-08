@@ -9,14 +9,14 @@ Checks Network Connectivity
 Tests connection to remote hosts
 Reports connection status 
 
-### How to run
+## How to run
 
 ''' bash
 
 chmod +x Script_name.sh
 ./Script_name.sh
 
-### Built with 
+## Built with 
 
 Bash Scripting 
 Linux networking commands
