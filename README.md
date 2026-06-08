@@ -6,8 +6,11 @@ Built entirely on android on termux
 
 # Project structure
 monitoring/ - System health monitoring scripts
+
 automation/ - Backup and Cleanup Automation
+
 network/ - Networking connectivity Scripts
+
 practice/ - Bash Scripting practice
 
 # Skills demonstrated
