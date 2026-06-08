@@ -13,6 +13,8 @@ Free up Disk space Automatically
 Sends Email Alert while issue detected 
 Integrated with monitoring Scripts
 
+# How to run 
+
 '' bash
 chmod +x script_name.sh
 ./script_name.sh
