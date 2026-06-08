@@ -1,0 +1,24 @@
+# Network Scripts 
+
+Script to Monitor and Check Network
+connectivity
+
+### Scripts
+### 30_connectivity-check.sh
+Checks Network Connectivity 
+Tests connection to remote hosts
+Reports connection status 
+
+### How to run
+
+''' bash
+
+chmod +x Script_name.sh
+./Script_name.sh
+
+### Built with 
+
+Bash Scripting 
+Linux networking commands
+
+
