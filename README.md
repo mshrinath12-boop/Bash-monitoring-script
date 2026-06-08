@@ -11,10 +11,15 @@ network/ - Networking connectivity Scripts
 practice/ - Bash Scripting practice
 
 # Skills demonstrated
+
 Linux system administration
+
 Bash Scripting
+
 Server monitoring
+
 Log Analysis
+
 Task Automation
 
 ## Author
