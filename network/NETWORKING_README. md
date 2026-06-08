@@ -3,7 +3,7 @@
 Script to Monitor and Check Network
 connectivity 
 
-### Scripts
+## Scripts
 ### 30_connectivity-check.sh
 Checks Network Connectivity 
 Tests connection to remote hosts
