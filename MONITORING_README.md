@@ -1,0 +1,29 @@
+# Monitoring Scripts
+Scripts to monitor system health on linux 
+server
+##Scripts
+### Disk Scanner.sh
+scan disk usage percentage 
+shows top folder by size
+###Folder Scanner. sh
+Check Disk usage
+Alert when usage is high 
+### Monitor. sh
+Real time System Monitoring 
+### ram_status. sh
+Monitor Ram usage and Availability 
+## How to run
+'' Bash
+chmod +x Script_name. sh
+./Script_name.sh
+
+
+Built with 
+Bash Scripting 
+Linux system commands
+
+
+
+
+
+
