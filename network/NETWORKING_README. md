@@ -12,7 +12,7 @@ Tests connection to remote hosts
 ```bash
 chmod +x script_name.sh
 ./script_name.sh
-
+'''
 
 ## Built with
 
