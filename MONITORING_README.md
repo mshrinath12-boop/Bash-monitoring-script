@@ -2,10 +2,10 @@
 Scripts to monitor system health on linux 
 server
 ##Scripts
-### Disk Scanner.sh
+### DiskScanner.sh
 scan disk usage percentage 
 shows top folder by size
-###Folder Scanner. sh
+### FolderChecker. sh
 Check Disk usage
 Alert when usage is high 
 ### Monitor. sh
