@@ -1,6 +1,6 @@
 # Automation Scripts
 Script to automate routine server task 
-on Linux 
+on Linux
 
 ## Scripts 
 ### BackupScript.sh
